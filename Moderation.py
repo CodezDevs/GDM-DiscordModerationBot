@@ -1,1 +1,2 @@
 Updated
+ @bot.command()
